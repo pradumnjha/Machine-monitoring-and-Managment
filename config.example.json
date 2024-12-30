@@ -1,0 +1,14 @@
+{
+  "servers": [
+    {
+      "id": "server1",
+      "name": "Web Server 1",
+      "host": "webserver1.example.com",
+      "port": 22,
+      "username": "admin",
+      "privateKey": "/path/to/private/key",
+      "zone": "production",
+      "application": "Web Application"
+    }
+  ]
+}
